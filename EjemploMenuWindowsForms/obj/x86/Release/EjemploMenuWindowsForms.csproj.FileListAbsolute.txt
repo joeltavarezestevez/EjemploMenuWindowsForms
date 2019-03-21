@@ -7,3 +7,4 @@ C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\Ejempl
 C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Release\EjemploMenuWindowsForms.csproj.GenerateResource.Cache
 C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Release\EjemploMenuWindowsForms.exe
 C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Release\EjemploMenuWindowsForms.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Release\EjemploMenuWindowsForms.csprojResolveAssemblyReference.cache
