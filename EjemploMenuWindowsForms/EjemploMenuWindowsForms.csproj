@@ -72,9 +72,6 @@
     <EmbeddedResource Include="frmRegistroClientes.resx">
       <DependentUpon>frmRegistroClientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>frmRegistroProductos.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmRegistroProductos.resx">
       <DependentUpon>frmRegistroProductos.cs</DependentUpon>
     </EmbeddedResource>

@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\bin\Debug\EjemploMenuWindowsForms.exe
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\bin\Debug\EjemploMenuWindowsForms.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Debug\EjemploMenuWindowsForms.frmMenuPrincipal.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Debug\EjemploMenuWindowsForms.frmRegistroClientes.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Debug\EjemploMenuWindowsForms.frmRegistroProductos.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Debug\EjemploMenuWindowsForms.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Debug\EjemploMenuWindowsForms.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Debug\EjemploMenuWindowsForms.exe
+C:\Users\pc\Documents\Visual Studio 2010\Projects\EjemploMenuWindowsForms\EjemploMenuWindowsForms\obj\x86\Debug\EjemploMenuWindowsForms.pdb

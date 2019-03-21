@@ -30,6 +30,15 @@ namespace EjemploMenuWindowsForms
             regproductos.Show();
         }
 
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult d = MessageBox.Show("Realmente desea salir?", "Aviso", MessageBoxButtons.YesNo);
+            if (d == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+
 
     }
 }
